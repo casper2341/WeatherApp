@@ -28,6 +28,22 @@ To get started with the application, simply clone the repository and open it in 
 
 - OpenWeather API: https://openweathermap.org/api
 
+##Improvements
+
+- Minor Bugs related to Connectivity
+- Manual Location Selection Option can be added in Future versions
+
+## Screenshot
+
+![BeFunky-layer](https://user-images.githubusercontent.com/84787101/213886537-a83ec5d3-f4f6-4e2b-bd42-e1ae374536bb.png)
+
+
+## Video 
+
+
+
+https://user-images.githubusercontent.com/84787101/213886343-f5d647f7-e2e7-4341-aab5-7f39886a8238.mp4
+
 
 
 ## Note
