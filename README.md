@@ -28,7 +28,7 @@ To get started with the application, simply clone the repository and open it in 
 
 - OpenWeather API: https://openweathermap.org/api
 
-##Improvements
+## Improvements
 
 - Minor Bugs related to Connectivity
 - Manual Location Selection Option can be added in Future versions
